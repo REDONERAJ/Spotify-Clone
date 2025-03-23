@@ -10,7 +10,7 @@ The main section showcases Featured Charts, including "Top 50 Global," "Trending
 
 The music player is visible at the bottom, allowing users to control playback
 
-![Screenshot 2025-03-23 215430](https://github.com/user-attachments/assets/8d4e8419-49ec-417d-89ed-e28a3af4962b)
+![Screenshot 2025-03-23 215430](https://github.com/user-attachments/assets/424dc543-682d-4f69-8af9-6351d4e94d7d)
 
 Playlist Page
 
@@ -20,7 +20,7 @@ A list of songs is displayed with columns for title, album, date added, and dura
 
 The sidebar and bottom music player remain consistent across the UI.
 
-![Screenshot 2025-03-23 215534](https://github.com/user-attachments/assets/93f861ba-6b15-4dda-90d0-840aacbccac8)
+![Screenshot 2025-03-23 215534](https://github.com/user-attachments/assets/0654c173-0231-43df-b8e0-66fdf887b393)
 
 🚀 Features
 ✅ Modern UI with Tailwind CSS
